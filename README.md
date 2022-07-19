@@ -3,7 +3,7 @@
 
 ## Description:
 This plugin hides your team so that it doesn't bother you when playing.
-It has availability between FFAA and team modes, when FFA mode is activated this plugin does nothing, but when TEAMS mode is activated it hides your team.
+It has availability between FFA and TEAM modes, when FFA mode is activated this plugin does nothing, but when TEAMS mode is activated it hides your team.
 
 **for admins:** They have availability on the !hideteam command to activate or deactivate the FFA mode (when the round is over) *the message that appears on the screen will only be for you*
 

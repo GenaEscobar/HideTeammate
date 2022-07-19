@@ -9,7 +9,7 @@ It has availability between FFAA and team modes, when FFA mode is activated this
 ## ¿what's different about it?:
 What is different about this plugin is that the FFA or Teams mode can be activated automatically depending on the people who are playing or simply leave it manual.
 
-** ¿What will this allow?**
+**¿What will this allow?**
 This will allow you to put more slots on your server since the map will not be saturated with people
 
 **Can I use this plugin only in team mode?**

@@ -28,4 +28,5 @@ Yes, you can perfectly use this plugin in only one way
 
 ## Coming soon
 Possibility of using it with the DM-Redie
+
 Fix bug when you control a BOT *(fix this I don't care, just tell me if you need it fixed and I'll do it for you)*

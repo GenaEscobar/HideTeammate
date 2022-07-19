@@ -13,10 +13,12 @@ What is different about this plugin is that the FFA or Teams mode can be activat
 **¿What will this allow?**
 This will allow you to put more slots on your server since the map will not be saturated with people
 
-**Can I use this plugin only in team mode?**
+**¿Can I use this plugin only in team mode?**
 Yes, you can perfectly use this plugin in only one way
 
 *This plugin was inspired by surfing, but can be used in different game modes*
+
+**The change of cvar will be shown in the chat unless you put this command in your server.cfg: sv_logecho "0"**
 
 # Click on Image for YT VIDEO
 [![Alt text](https://img.youtube.com/vi/FdHJjRAupLc/0.jpg)](https://www.youtube.com/watch?v=FdHJjRAupLc)

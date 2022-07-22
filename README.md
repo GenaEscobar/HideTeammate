@@ -31,4 +31,5 @@ What is different about this plugin is that the FFA or Teams mode can be activat
 ## Coming soon
 * Possibility of using it with the DM-Redie (in v1.2)
 * Detect if you sv is in mp_teammates_are_enemies 1, instead of setting one directly.
+*this means that you can start with team mode and when x people connect to the server the ffa is put directly (currently it starts yes or yes with ffa mode)*
 * Fix bug when you control a BOT *(fix this I don't care, just tell me if you need it fixed and I'll do it for you)*
